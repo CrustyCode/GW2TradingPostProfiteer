@@ -35,7 +35,7 @@ public class Trader {
 	
 	private Random r = new Random();
 	
-	private final static String sessionKey = "";
+	private final static String sessionKey = ""; 
 	private final static String email = "";
 	private final static String password = "";
 	
